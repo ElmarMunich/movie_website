@@ -1,4 +1,5 @@
-# cd /users/elmar/desktop/movie_website
+# Information for movies was retrieved from wikipedia including movie poster (wikimedia)
+# all trailers are links from public youtube media
 import fresh_tomatoes
 # imports python file for creating the html page for the movie trailers
 import media
